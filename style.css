@@ -108,7 +108,7 @@ nav {
    ========================================= */
 .hero-kelompok {
     height: 100vh;       /* Tinggi memenuhi satu layar penuh */
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/453cceb8efb2.jpg'); 
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('453cceb8efb2.jpg'); 
     /* Catatan: Ganti 'img/hero-bg.jpg' dengan gambar backgroundmu. Linear gradient membuat gambar agak gelap agar teks terbaca */
     background-size: cover; /* Gambar menutupi seluruh area */
     background-position: center; /* Gambar fokus di tengah */
@@ -294,4 +294,5 @@ footer p {
         display: flex;
         font-size: 0.9rem;
     }
+
 }
